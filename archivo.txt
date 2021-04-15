@@ -1,0 +1,2 @@
+Creo archivo.txt en master
+otra linea en archivo
